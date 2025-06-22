@@ -1,0 +1,14 @@
+20:06:2025	17:21:15	8580a919-601e-4311-90d5-b38568520dfe	RangeError:Maximum call stack size exceeded
+
+20:06:2025	17:21:59	3004e490-f1a5-4102-9c0c-9c045ef00433	RangeError:Maximum call stack size exceeded
+
+21:06:2025	17:56:59	f5ee1549-211d-40ca-8912-ac25d9a918e2	TypeError:Cannot read properties of undefined (reading 'split')
+
+22:06:2025	19:14:06	63d272ad-c6d0-4015-af13-2b5f9f94e525	ReferenceError:username is not defined
+
+22:06:2025	20:19:15	66f7c1fe-3977-4b2b-8cd9-fe8d14ea098d	TypeError:allowedRoles.includes(...).find is not a function
+
+22:06:2025	20:19:19	c9048768-0874-46eb-8687-3b262a74901e	TypeError:allowedRoles.includes(...).find is not a function
+
+22:06:2025	20:26:19	7772c88c-e3e0-4d09-819f-0f14a58d288d	Error:Cannot set headers after they are sent to the client
+
