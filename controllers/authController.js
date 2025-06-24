@@ -14,7 +14,7 @@ const handleLogin =  async(req,res)=>{
     }
     const foundUser = usersDB.users.find(user=>user.username===username)
     if(!foundUser)
-        return res.sendStatus(409)
+        return res.sendStatus(401)
     const roles = Object.values(foundUser.roles)
     const match = await bcrypt.compare(password,foundUser.password)
     if(match){
@@ -37,7 +37,7 @@ const handleLogin =  async(req,res)=>{
         const currentUser = {...foundUser,refreshToken}
         console.log(usersDB.users)
         usersDB.setUsers([...otherUsers,currentUser])
-        fsPromises.writeFile(
+        await fsPromises.writeFile(
             path.join(__dirname,'..','data','users.json'),
             JSON.stringify(usersDB.users)
         )
