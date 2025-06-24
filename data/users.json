@@ -1,1 +1,40 @@
-[{"username":"sago editor","password":"$2b$10$9aCqoQUDQFUTE7XA46nKVOq7SCaQrw94i337S6pXT1RDJujM496Pu","roles":{"Editor":1984,"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZ28gZWRpdG9yIiwiaWF0IjoxNzUwNzQ1MzM4LCJleHAiOjE3NTA4MzE3Mzh9.r_qglXBKFjC35IUPUZ4h6JCCjbGd2Wn0IeusjHXBSCU"},{"username":"kesava user","password":"$2b$10$KVu4MpBgE/QYt7NYWSeKqePwJlgZVplxRGfWLu6e6uFcLnIhHM3hK","roles":{"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imtlc2F2YSB1c2VyIiwiaWF0IjoxNzUwNzQ3MTI3LCJleHAiOjE3NTA4MzM1Mjd9.NFB5TuAhqtnZMDO8LaXSUMRUSlYeaEZkhynpzcKJNrM"},{"username":"sago user","password":"$2b$10$Sxow2m/5uxDWqzomBKvHcuIQ1rXvRqAbNN8Zh8PnuwOjRq1kOsmcO","roles":{"User":2001},"refreshToken":""},{"refreshToken":""},{"username":"sago admin","password":"$2b$10$kI3O2YhNdxnI7L3FSixVCOBiZjljowDI3Hu.ZZlTUUIY7f6pMCXvW","roles":{"Admin":5150,"Editor":1984,"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZ28gYWRtaW4iLCJpYXQiOjE3NTA3ODM4NTYsImV4cCI6MTc1MDg3MDI1Nn0.0K-pTbKf2Sca1GLT9_v9_rTVGu7SdAo5bjL4u6naCaA"}]
+[
+    {
+        "username": "sago editor",
+        "password": "$2b$10$9aCqoQUDQFUTE7XA46nKVOq7SCaQrw94i337S6pXT1RDJujM496Pu",
+        "roles": {
+            "Editor": 1984,
+            "User": 2001
+        },
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZ28gZWRpdG9yIiwiaWF0IjoxNzUwNzQ1MzM4LCJleHAiOjE3NTA4MzE3Mzh9.r_qglXBKFjC35IUPUZ4h6JCCjbGd2Wn0IeusjHXBSCU"
+    },
+    {
+        "username": "kesava user",
+        "password": "$2b$10$KVu4MpBgE/QYt7NYWSeKqePwJlgZVplxRGfWLu6e6uFcLnIhHM3hK",
+        "roles": {
+            "User": 2001
+        },
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imtlc2F2YSB1c2VyIiwiaWF0IjoxNzUwNzQ3MTI3LCJleHAiOjE3NTA4MzM1Mjd9.NFB5TuAhqtnZMDO8LaXSUMRUSlYeaEZkhynpzcKJNrM"
+    },
+    {
+        "username": "sago user",
+        "password": "$2b$10$Sxow2m/5uxDWqzomBKvHcuIQ1rXvRqAbNN8Zh8PnuwOjRq1kOsmcO",
+        "roles": {
+            "User": 2001
+        },
+        "refreshToken": ""
+    },
+    {
+        "refreshToken": ""
+    },
+    {
+        "username": "sago admin",
+        "password": "$2b$10$kI3O2YhNdxnI7L3FSixVCOBiZjljowDI3Hu.ZZlTUUIY7f6pMCXvW",
+        "roles": {
+            "Admin": 5150,
+            "Editor": 1984,
+            "User": 2001
+        },
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZ28gYWRtaW4iLCJpYXQiOjE3NTA3ODM4NTYsImV4cCI6MTc1MDg3MDI1Nn0.0K-pTbKf2Sca1GLT9_v9_rTVGu7SdAo5bjL4u6naCaA"
+    }
+]
