@@ -232,3 +232,55 @@
 
 22:06:2025	20:26:19	30cb2dde-1dcd-4709-ac89-babc67440279	POST	undefined	/api/employee
 
+24:06:2025	10:10:50	4eef1218-b1df-4b01-a8d0-7a38823fa0ed	POST	undefined	/auth
+
+24:06:2025	10:11:11	42314bb3-3ee2-470e-bed3-99b58c07c18a	POST	undefined	/auth
+
+24:06:2025	10:11:51	5b126205-9e65-4f8d-b783-e55c8a31ebb5	POST	undefined	/auth
+
+24:06:2025	10:13:01	cbab699f-9750-4028-8599-111e18343894	GET	undefined	/api/employee
+
+24:06:2025	10:13:09	4d83878a-6a01-491e-af59-a437c4153086	DELETE	undefined	/api/employee
+
+24:06:2025	10:16:32	096d43c5-429c-4e4e-8d11-203aac56ff46	POST	undefined	/auth
+
+24:06:2025	10:16:45	698d9527-dc5f-4df0-8dae-2491bdde66ec	GET	undefined	/api/employee
+
+24:06:2025	10:16:57	e8b14ee2-a1ef-4b37-87ce-30226fa3835d	GET	undefined	/auth
+
+24:06:2025	10:17:09	1e6cc93f-6804-47df-8e79-7010fa78d434	POST	undefined	/auth
+
+24:06:2025	10:17:45	ea588321-04bd-4dcc-9f41-7d72f8c810c6	GET	undefined	/api/employee
+
+24:06:2025	10:18:04	17ab2e51-b2de-4aac-96fa-cca05532fa74	DELETE	undefined	/api/employee
+
+24:06:2025	10:18:35	8a2b02aa-9007-48d0-8234-45e42fe0a7da	POST	undefined	/api/employee
+
+24:06:2025	10:18:45	f0c836d2-73d7-4829-8c2a-4551fc19bc02	POST	undefined	/api/employee
+
+24:06:2025	10:19:15	58b3b20f-0307-40c6-bd27-5313932529ec	PUT	undefined	/api/employee
+
+24:06:2025	10:19:28	b52b902d-df4a-448d-97ba-5748a3611796	GET	undefined	/refresh
+
+24:06:2025	10:20:16	8bb6c445-471e-4ff2-8923-9efe5a035185	GET	undefined	/api/employee/2
+
+24:06:2025	10:20:32	ad8dd9bc-568b-41da-8809-ade9d1485248	DELETE	undefined	/api/employee
+
+24:06:2025	10:20:43	3403f942-11e0-4646-a6f2-9c0970e06ae4	DELETE	undefined	/logout
+
+24:06:2025	10:20:50	86cc5aa6-e5b1-416d-b276-dad6ed733915	GET	undefined	/logout
+
+24:06:2025	10:21:58	208a2b39-ba7d-4c4f-b1b4-ef08edbe77b0	GET	undefined	/logout
+
+24:06:2025	10:22:54	3553a0bb-06f8-4eb8-8661-ffc489821869	POST	undefined	/auth
+
+24:06:2025	10:25:25	00014006-c79c-45e5-a6cc-ff9b1954f61f	POST	undefined	/auth
+
+24:06:2025	10:26:46	404f7439-3713-425f-9561-355fc26f0ad2	GET	undefined	/api/employee
+
+24:06:2025	10:27:04	59bbc923-0588-4a56-93d2-a5d1fe91a0c6	DELETE	undefined	/api/employee
+
+24:06:2025	10:27:20	00f6f32f-a27d-48bc-b966-9250f9652cc3	GET	undefined	/logout
+
+24:06:2025	10:27:22	2ecc184c-a3ac-453b-8c5c-67e6539c552e	GET	undefined	/logout
+
