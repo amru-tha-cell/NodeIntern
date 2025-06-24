@@ -11,7 +11,7 @@ const handleLogout = async(req,res)=>{
     const refreshToken = cookies.jwt;
     const foundUser = usersDB.users.find(user=>user.refreshToken===refreshToken)
     if(!foundUser){
-        res.clearCookie('jwt',{httpOnly:true,sameSite:'none',secure:true})
+        res.clearCookie('jwt',{sameSite:'none',secure:true})
         res.sendStatus(204)
     }
     const otherUsers = usersDB.users.filter(person=>person.refreshToken!==refreshToken);

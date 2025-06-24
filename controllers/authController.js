@@ -41,7 +41,7 @@ const handleLogin =  async(req,res)=>{
             path.join(__dirname,'..','data','users.json'),
             JSON.stringify(usersDB.users)
         )
-        res.cookie('jwt',refreshToken,{httpOnly:true,sameSite:'none',secure:true})
+        res.cookie('jwt',refreshToken,{sameSite:'none',secure:true})
         res.json({accessToken})
     }
     else
